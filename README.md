@@ -6,7 +6,6 @@ Hi, I'm Emmanuel Blanchet!
 <hr>
 
 ```
--------------------------
 🇫🇷 I am from France
 💻 I am a self taught Full Stack Developer and a Machine Learning Developer
 📝 I have a strong interest in Data Science and Artificial Intelligence
