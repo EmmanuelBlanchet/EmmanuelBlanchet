@@ -1,13 +1,9 @@
 <h1 align="center">
 Hi, I'm Emmanuel Blanchet!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
- <!--<img src="https://i.imgur.com/tEXNKVf.png" align='right' alt="vishalmaurya" />-->
+ <img src="https://i.imgur.com/tEXNKVf.png" align='right' alt="vishalmaurya" />
  <img src="https://gpvc.arturio.dev/EmmanuelBlanchet" alt="Profile views" align='right'/> <a href="https://github.com/EmmanuelBlanchet"> </a> 
 <br/>
-
-
-<img align="left" src="https://github.com/
-am-vishalmaurya/EmmanuelBlanchet/blob/main/cropped_image.png" alt="Unfortunately I didn't find the author of the pic, feel to open a pull request if found" width="320" />
 <hr>
 
 ```
